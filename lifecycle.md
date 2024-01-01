@@ -2,3 +2,5 @@
 
 - untracked
 - staged
+- modified
+- unmodified
